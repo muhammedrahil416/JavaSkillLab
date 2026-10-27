@@ -119,3 +119,14 @@ Top 3 recommendations
 - **No build tools** — compile with `javac`, run with `java`.
 - **Readable code** — suitable for college-level evaluation.
 
+- ## 👨‍💻 Authors
+
+**Muhammed Rahil** - [muhammedrahil416](https://github.com/muhammedrahil416)
+
+
+---
+
+## 📄 License
+
+This project is intended for educational use.
+
