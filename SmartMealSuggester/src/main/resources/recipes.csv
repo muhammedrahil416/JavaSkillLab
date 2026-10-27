@@ -1,0 +1,30 @@
+id,name,ingredients,prepTime
+1,Spinach Paneer Stir-Fry,spinach|paneer|tomato|onion|garlic|cumin seed,25
+2,Tomato Pasta,pasta|tomato|garlic|onion|olive oil|basil,20
+3,Vegetable Omelette,egg|spinach|onion|tomato|black pepper,15
+4,Garlic Paneer Bhurji,paneer|garlic|onion|tomato|turmeric|coriander,20
+5,Palak Dal,spinach|lentil|onion|tomato|garlic|cumin seed|turmeric,35
+6,Aloo Gobhi,potato|cauliflower|onion|garlic|ginger|cumin seed|turmeric,30
+7,Tomato Soup,tomato|onion|garlic|olive oil|basil|cream,20
+8,Pasta Primavera,pasta|zucchini|bell pepper|garlic|olive oil|parmesan,25
+9,Paneer Tikka,paneer|yogurt|garlic|ginger|cumin seed|paprika,40
+10,Mushroom Stir-Fry,mushroom|garlic|onion|soy sauce|ginger|sesame oil,20
+11,Egg Fried Rice,egg|rice|onion|garlic|soy sauce|green pea,20
+12,Lentil Soup,lentil|tomato|onion|garlic|cumin seed|spinach|turmeric,30
+13,Greek Salad,tomato|cucumber|onion|olive oil|feta cheese|black olive,10
+14,Avocado Toast,bread|avocado|tomato|lemon|salt|black pepper,10
+15,Butter Chicken,chicken|butter|tomato|onion|garlic|ginger|cream|garam masala,45
+16,Vegetable Khichdi,rice|lentil|potato|onion|tomato|turmeric|cumin seed,30
+17,Paneer Butter Masala,paneer|butter|tomato|onion|garlic|ginger|cream|garam masala,35
+18,Tomato Garlic Bruschetta,bread|tomato|garlic|olive oil|basil|black pepper,10
+19,Spinach Scrambled Eggs,egg|spinach|onion|garlic|black pepper|butter,15
+20,Chickpea Curry,chickpea|tomato|onion|garlic|ginger|cumin seed|turmeric|garam masala,35
+21,Stir-Fried Noodles,noodle|cabbage|carrot|garlic|soy sauce|sesame oil|egg,20
+22,Potato Leek Soup,potato|leek|onion|garlic|cream|black pepper|butter,30
+23,Masoor Dal,lentil|onion|tomato|garlic|turmeric|cumin seed|butter,25
+24,Cucumber Raita,yogurt|cucumber|onion|cumin seed|coriander|black pepper,10
+25,Corn Salad,corn|tomato|onion|lemon|coriander|black pepper,10
+26,Peanut Noodles,noodle|peanut|garlic|soy sauce|sesame oil|carrot|cucumber,20
+27,Cheese Omelette,egg|cheese|onion|black pepper|butter|tomato,15
+28,Spinach Garlic Soup,spinach|garlic|onion|cream|potato|black pepper|butter,25
+
